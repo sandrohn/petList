@@ -1,0 +1,9 @@
+{
+  "name": "petList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+  
+}
+

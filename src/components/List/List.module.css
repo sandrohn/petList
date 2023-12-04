@@ -1,0 +1,44 @@
+body{
+    background-color: D9E6F7;
+}
+
+.mainContainer {
+    padding: 0rem 0.5rem;
+    
+}
+
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #b6d0f2;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.buttonContainer button{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 10px;
+    margin: 3px;
+    background-color: #c8def1 ;
+    
+}
+
+button:hover{
+    background-color: #8bacc9;
+}
+
+.listContainer{
+    display: flex;
+    justify-content: space-around;
+    background-color: #b6d0f2;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+     
+}
+
+.listContainer p {
+  
+}
